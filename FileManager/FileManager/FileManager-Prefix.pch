@@ -1,0 +1,20 @@
+//
+//  FileManager-Prefix.pch
+//  FileManager
+//
+//  Created by zhu_sl on 2017/5/25.
+//  Copyright © 2017年 zhu_sl. All rights reserved.
+//
+
+#ifndef FileManager_Prefix_h
+#define FileManager_Prefix_h
+
+
+#import "HTTPServer.h"
+#import "HTTPConnection.h"
+#import "MyHTTPConnection.h"
+#import "HTTPRedirectResponse.h"
+
+#import "AppDelegate.h"
+
+#endif /* FileManager_Prefix_h */
